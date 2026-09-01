@@ -134,7 +134,7 @@ The project can be enhanced in the future by adding:
 
 ## 👩‍💻 Developed By
 
-**Lakshana V**
+**Priyadarshini G**
 
 ### 📌 Project
 
